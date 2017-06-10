@@ -58,7 +58,6 @@ public class CallsLoader extends AsyncTaskLoader<List<Call>> {
         } else {
             Log.e(TAG, "cursor is null");
         }
-
         return calls;
     }
 

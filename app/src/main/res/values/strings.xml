@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CallsApp</string>
+    <string name="date_formatter">data :1%d</string>
 </resources>
